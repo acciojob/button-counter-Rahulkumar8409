@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-       <p>Button clicked {counter}times</p>
+       <p>Button clicked {counter} times</p>
        <button onClick={addValue}>click me</button>
     </div>
   );
