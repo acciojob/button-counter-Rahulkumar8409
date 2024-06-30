@@ -3,7 +3,7 @@ import React from "react";
 import './../styles/App.css';
 
 function App() {
-  const [counter, setCounter] = useState(1);
+  const [counter, setCounter] = useState(0);
 
 
   
